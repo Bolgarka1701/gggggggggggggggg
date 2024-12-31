@@ -1,0 +1,1 @@
+queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Bolgarka1701/donttouchmeimuseless/refs/heads/main/donttouchme'))()")
